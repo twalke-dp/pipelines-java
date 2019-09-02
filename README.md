@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/tobiaswalke/pipeline-test/_apis/build/status/twalke-dp.pipelines-java?branchName=master)](https://dev.azure.com/tobiaswalke/pipeline-test/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
